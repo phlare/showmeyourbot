@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://phlare.github.io/showmeyourbot/sitemap.xml
