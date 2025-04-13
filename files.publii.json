@@ -7,12 +7,12 @@
     {
         "path": "/11-streamer-bot-chat-commands/index.html",
         "type": "file",
-        "md5": "2c0d7d8fc02ab19a2cc4fa333d711981"
+        "md5": "77eccfb0b566eedaca4bcd2403b77b64"
     },
     {
         "path": "404.html",
         "type": "file",
-        "md5": "3b059987b9eba53e8d957033ce31a2ef"
+        "md5": "2c8992b62ba4292f33f517ee0aea5633"
     },
     {
         "path": "about-me",
@@ -22,7 +22,7 @@
     {
         "path": "/about-me/index.html",
         "type": "file",
-        "md5": "f924072792b1c7db3ff9ce1110d6b2e1"
+        "md5": "1a36f523dcf8d7e9d8716a420e973796"
     },
     {
         "path": "add-link-protection-in-streamer-bot",
@@ -32,7 +32,7 @@
     {
         "path": "/add-link-protection-in-streamer-bot/index.html",
         "type": "file",
-        "md5": "4bc0c2429ebfd37c7029959e434f3432"
+        "md5": "9d503e14fdec1e9baf02aeab915b1f0b"
     },
     {
         "path": "affordable-streaming-gear",
@@ -42,7 +42,7 @@
     {
         "path": "/affordable-streaming-gear/index.html",
         "type": "file",
-        "md5": "7c6b8cd456c8c0152d28101fdaed404a"
+        "md5": "65f16dd29adaaa387a7b7b2b1f586f56"
     },
     {
         "path": "assets",
@@ -127,7 +127,7 @@
     {
         "path": "/authors/phlare/index.html",
         "type": "file",
-        "md5": "d061b076bc8aea950427eb1418c00341"
+        "md5": "b1d6abe7000b3483e5a9558ffcd47460"
     },
     {
         "path": "authors/phlare/page",
@@ -142,7 +142,7 @@
     {
         "path": "/authors/phlare/page/2/index.html",
         "type": "file",
-        "md5": "23f2ad866792607d930fed71dcaea116"
+        "md5": "4986c38fb173e540a37dacdfdb892d23"
     },
     {
         "path": "building-a-weighted-random-response-in-streamelements",
@@ -152,7 +152,7 @@
     {
         "path": "/building-a-weighted-random-response-in-streamelements/index.html",
         "type": "file",
-        "md5": "b3f99d2816cf6aa966e112f256bc52fd"
+        "md5": "dbc92915a9c4ff0337c53802b40e987a"
     },
     {
         "path": "connect-and-support",
@@ -162,7 +162,7 @@
     {
         "path": "/connect-and-support/index.html",
         "type": "file",
-        "md5": "43e3b379bc401322479b757c618f24f0"
+        "md5": "889c6f34e63cc5a6270a247f6812b9ff"
     },
     {
         "path": "create-a-dad-joke-command-with-nightbot",
@@ -172,7 +172,7 @@
     {
         "path": "/create-a-dad-joke-command-with-nightbot/index.html",
         "type": "file",
-        "md5": "cbdab151a3256a49164eeffd7f42da1a"
+        "md5": "3518b127b91ed2ca92ab3d95e595f74c"
     },
     {
         "path": "feed.json",
@@ -192,12 +192,12 @@
     {
         "path": "/how-to-add-a-dad-joke-command-to-streamelements/index.html",
         "type": "file",
-        "md5": "1dffee4cf770a7b7925589f2d8f95b8f"
+        "md5": "7f47679545c6efa48708965c8b12b221"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "f1836d9c954ba2664196c07430d21a16"
+        "md5": "536a89133e8b5d67010900257ed597c6"
     },
     {
         "path": "make-a-dad-joke-command-for-streamlabs-cloudbot",
@@ -207,7 +207,7 @@
     {
         "path": "/make-a-dad-joke-command-for-streamlabs-cloudbot/index.html",
         "type": "file",
-        "md5": "8c96c63ccc689336f47dd3ecf0f2c562"
+        "md5": "883212e35098d137d3024266a9e83c40"
     },
     {
         "path": "media",
@@ -4797,7 +4797,7 @@
     {
         "path": "/monitor-ads-on-twitch-with-streamer-bot/index.html",
         "type": "file",
-        "md5": "27ffe3bedec81d0b1200d88aff319744"
+        "md5": "fbb3edc286de061a318d87c1a3b32316"
     },
     {
         "path": "page",
@@ -4812,7 +4812,7 @@
     {
         "path": "/page/2/index.html",
         "type": "file",
-        "md5": "3e5dc8d74729950d6ee45c57b9975858"
+        "md5": "d68df44503ce4feac320136b7ad10209"
     },
     {
         "path": "post-clips-to-discord-with-streamerbot-automatically",
@@ -4822,7 +4822,7 @@
     {
         "path": "/post-clips-to-discord-with-streamerbot-automatically/index.html",
         "type": "file",
-        "md5": "bb95be8b7cc539e8305fa4ade9df1bfa"
+        "md5": "0ae59faaaeb95a7923d2c9b615b3dc9d"
     },
     {
         "path": "privacy-policy",
@@ -4832,7 +4832,7 @@
     {
         "path": "/privacy-policy/index.html",
         "type": "file",
-        "md5": "3fd688171550d521ced6c1d7e6a41759"
+        "md5": "e6e1141ebc8c016233efd40b38e33c07"
     },
     {
         "path": "reset-connection-between-streamer-bot-and-streamlabs-desktop",
@@ -4842,7 +4842,7 @@
     {
         "path": "/reset-connection-between-streamer-bot-and-streamlabs-desktop/index.html",
         "type": "file",
-        "md5": "c56c8d282eefddab8d5a66df2c04e906"
+        "md5": "e02a659aa214f230ce24232607063147"
     },
     {
         "path": "robots.txt",
@@ -4857,7 +4857,7 @@
     {
         "path": "/set-up-a-dadjoke-command-in-streamer-bot/index.html",
         "type": "file",
-        "md5": "d4833b52706667ce3ccff740d182cee4"
+        "md5": "e8618873ab13f278fc77698f156e6ce7"
     },
     {
         "path": "setting-up-nightbot-and-exploring-features",
@@ -4867,7 +4867,7 @@
     {
         "path": "/setting-up-nightbot-and-exploring-features/index.html",
         "type": "file",
-        "md5": "b246c6faae141338bdecfc06ed874cf5"
+        "md5": "67f90c40c2ef38c050356a46609d9a82"
     },
     {
         "path": "setting-up-streamelements-chatbot",
@@ -4877,7 +4877,7 @@
     {
         "path": "/setting-up-streamelements-chatbot/index.html",
         "type": "file",
-        "md5": "c98579f98c0bc00729d68fa74069ccb1"
+        "md5": "aa9c99b3d2592b9039216bafa0c923b3"
     },
     {
         "path": "setting-up-streamerbot",
@@ -4887,7 +4887,7 @@
     {
         "path": "/setting-up-streamerbot/index.html",
         "type": "file",
-        "md5": "3509af12d528e849b8aa2b898e693b91"
+        "md5": "360149f814ebc14f7f8d505f60e9621b"
     },
     {
         "path": "setting-up-streamlabs-cloudbot",
@@ -4897,7 +4897,7 @@
     {
         "path": "/setting-up-streamlabs-cloudbot/index.html",
         "type": "file",
-        "md5": "6cf205347219ca2eabc70616fce5c8c8"
+        "md5": "ec9dda74895b51374ca397ac9e3a1e99"
     },
     {
         "path": "shoutout-command-for-streamelements-with-game",
@@ -4907,7 +4907,7 @@
     {
         "path": "/shoutout-command-for-streamelements-with-game/index.html",
         "type": "file",
-        "md5": "01010aac9471152fba6ee36c106b2da6"
+        "md5": "7c5249761ea6dbee6ff6598e2c7331fc"
     },
     {
         "path": "sitemap.xml",
@@ -4927,7 +4927,7 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "8959ea76b9dd316a0ad5880cdbc5f9fc"
+        "md5": "3971ad75f60360ed54799c16e41f0a55"
     },
     {
         "path": "tutorials-and-musings",
@@ -4937,7 +4937,7 @@
     {
         "path": "/tutorials-and-musings/index.html",
         "type": "file",
-        "md5": "4ee8479a331f46d5fa9db2c2347da0d4"
+        "md5": "4f91a4e9ea660a90c65757e66e9e2aaf"
     },
     {
         "path": "twitch-automatic-ad-length-frequency",
@@ -4947,7 +4947,7 @@
     {
         "path": "/twitch-automatic-ad-length-frequency/index.html",
         "type": "file",
-        "md5": "0e51d7c6be4819a1b88d5bc7d207a3ec"
+        "md5": "c179e17368b43b0e9a73bfc4827475bd"
     },
     {
         "path": "using-streamerbot-to-respond-to-new-chatters",
@@ -4957,6 +4957,6 @@
     {
         "path": "/using-streamerbot-to-respond-to-new-chatters/index.html",
         "type": "file",
-        "md5": "cb6e0e9f1431ef56659f01e1f601edd8"
+        "md5": "c5db5aef99b4f72b2782881a3b780e42"
     }
 ]
