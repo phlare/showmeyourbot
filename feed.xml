@@ -3,7 +3,7 @@
     <title>Show Me Your Bot</title>
     <link href="https://showmeyourbot.com/feed.xml" rel="self" />
     <link href="https://showmeyourbot.com" />
-    <updated>2025-04-13T03:06:29-06:00</updated>
+    <updated>2025-05-13T11:16:13-06:00</updated>
     <author>
         <name>phlare</name>
     </author>
@@ -16,18 +16,18 @@
         </author>
         <link href="https://showmeyourbot.com/monitor-ads-on-twitch-with-streamer-bot/"/>
         <id>https://showmeyourbot.com/monitor-ads-on-twitch-with-streamer-bot/</id>
-        <media:content url="https://showmeyourbot.com/media/posts/17/Monitor-Ads.png" medium="image" />
+        <media:content url="https://showmeyourbot.com/media/posts/17/Monitor-Ads-498.png" medium="image" />
 
         <updated>2024-03-12T19:00:10-06:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://showmeyourbot.com/media/posts/17/Monitor-Ads.png" alt="" />
+                        <img src="https://showmeyourbot.com/media/posts/17/Monitor-Ads-498.png" alt="" />
                     Just getting this video up today, will add a text-and-screenshot version of the guide soon. for now, here's the export code referred to in the&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://showmeyourbot.com/media/posts/17/Monitor-Ads.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://showmeyourbot.com/media/posts/17/Monitor-Ads-498.png" class="type:primaryImage" alt="" /></p>
                 <p><!-- wp:heading --></p>
 <h2 class="wp-block-heading">Full Text-based tutorial coming soon</h2>
 <p><!-- /wp:heading --></p>
