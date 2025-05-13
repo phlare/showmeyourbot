@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Show Me Your Bot</title>
-    <link href="https://phlare.github.io/showmeyourbot/feed.xml" rel="self" />
-    <link href="https://phlare.github.io/showmeyourbot" />
+    <link href="https://showmeyourbot.com/feed.xml" rel="self" />
+    <link href="https://showmeyourbot.com" />
     <updated>2025-04-13T03:06:29-06:00</updated>
     <author>
         <name>phlare</name>
     </author>
-    <id>https://phlare.github.io/showmeyourbot</id>
+    <id>https://showmeyourbot.com</id>
 
     <entry>
         <title>Monitor Ads on Twitch with Streamer Bot</title>
         <author>
             <name>phlare</name>
         </author>
-        <link href="https://phlare.github.io/showmeyourbot/monitor-ads-on-twitch-with-streamer-bot/"/>
-        <id>https://phlare.github.io/showmeyourbot/monitor-ads-on-twitch-with-streamer-bot/</id>
-        <media:content url="https://phlare.github.io/showmeyourbot/media/posts/17/Monitor-Ads.png" medium="image" />
+        <link href="https://showmeyourbot.com/monitor-ads-on-twitch-with-streamer-bot/"/>
+        <id>https://showmeyourbot.com/monitor-ads-on-twitch-with-streamer-bot/</id>
+        <media:content url="https://showmeyourbot.com/media/posts/17/Monitor-Ads.png" medium="image" />
 
         <updated>2024-03-12T19:00:10-06:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://phlare.github.io/showmeyourbot/media/posts/17/Monitor-Ads.png" alt="" />
+                        <img src="https://showmeyourbot.com/media/posts/17/Monitor-Ads.png" alt="" />
                     Just getting this video up today, will add a text-and-screenshot version of the guide soon. for now, here's the export code referred to in the&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://phlare.github.io/showmeyourbot/media/posts/17/Monitor-Ads.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://showmeyourbot.com/media/posts/17/Monitor-Ads.png" class="type:primaryImage" alt="" /></p>
                 <p><!-- wp:heading --></p>
 <h2 class="wp-block-heading">Full Text-based tutorial coming soon</h2>
 <p><!-- /wp:heading --></p>
@@ -69,8 +69,8 @@
         <author>
             <name>phlare</name>
         </author>
-        <link href="https://phlare.github.io/showmeyourbot/11-streamer-bot-chat-commands/"/>
-        <id>https://phlare.github.io/showmeyourbot/11-streamer-bot-chat-commands/</id>
+        <link href="https://showmeyourbot.com/11-streamer-bot-chat-commands/"/>
+        <id>https://showmeyourbot.com/11-streamer-bot-chat-commands/</id>
 
         <updated>2023-12-28T03:31:59-07:00</updated>
             <summary>
@@ -191,20 +191,20 @@
         <author>
             <name>phlare</name>
         </author>
-        <link href="https://phlare.github.io/showmeyourbot/add-link-protection-in-streamer-bot/"/>
-        <id>https://phlare.github.io/showmeyourbot/add-link-protection-in-streamer-bot/</id>
-        <media:content url="https://phlare.github.io/showmeyourbot/media/posts/16/Automatic-Link-Protection-e1703655313248.png" medium="image" />
+        <link href="https://showmeyourbot.com/add-link-protection-in-streamer-bot/"/>
+        <id>https://showmeyourbot.com/add-link-protection-in-streamer-bot/</id>
+        <media:content url="https://showmeyourbot.com/media/posts/16/Automatic-Link-Protection-e1703655313248.png" medium="image" />
 
         <updated>2023-12-27T05:41:41-07:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://phlare.github.io/showmeyourbot/media/posts/16/Automatic-Link-Protection-e1703655313248.png" alt="" />
+                        <img src="https://showmeyourbot.com/media/posts/16/Automatic-Link-Protection-e1703655313248.png" alt="" />
                     Want to add some basic link protection to your Streamer bot setup? This action will read each chat message and delete any that contain links.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://phlare.github.io/showmeyourbot/media/posts/16/Automatic-Link-Protection-e1703655313248.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://showmeyourbot.com/media/posts/16/Automatic-Link-Protection-e1703655313248.png" class="type:primaryImage" alt="" /></p>
                 <p><!-- wp:paragraph {"style":{"spacing":{"margin":{"bottom":"0"}}}} --></p>
 <p style="margin-bottom:0">Want to add some basic link protection to your Streamer bot setup? <br><br>This action will read each chat message and delete any that contain links.</p>
 <p>
@@ -250,7 +250,7 @@
 <p>
 <!-- /wp:list-item --></p>
 <p><!-- wp:list-item --></p>
-<li>Click Import at the bottom<br><br><figure class="wp-image-351"><img loading="lazy"  style="" src="https://phlare.github.io/showmeyourbot/media/posts/16/Screenshot-2023-12-26-221302.png" alt="" sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://phlare.github.io/showmeyourbot/media/posts/16/responsive/Screenshot-2023-12-26-221302-xs.png 300w ,https://phlare.github.io/showmeyourbot/media/posts/16/responsive/Screenshot-2023-12-26-221302-sm.png 480w ,https://phlare.github.io/showmeyourbot/media/posts/16/responsive/Screenshot-2023-12-26-221302-md.png 768w ,https://phlare.github.io/showmeyourbot/media/posts/16/responsive/Screenshot-2023-12-26-221302-lg.png 1024w"></figure></li>
+<li>Click Import at the bottom<br><br><figure class="wp-image-351"><img loading="lazy"  style="" src="https://showmeyourbot.com/media/posts/16/Screenshot-2023-12-26-221302.png" alt="" sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://showmeyourbot.com/media/posts/16/responsive/Screenshot-2023-12-26-221302-xs.png 300w ,https://showmeyourbot.com/media/posts/16/responsive/Screenshot-2023-12-26-221302-sm.png 480w ,https://showmeyourbot.com/media/posts/16/responsive/Screenshot-2023-12-26-221302-md.png 768w ,https://showmeyourbot.com/media/posts/16/responsive/Screenshot-2023-12-26-221302-lg.png 1024w"></figure></li>
 <p>
 <!-- /wp:list-item --></ol>
 <p>
@@ -284,7 +284,7 @@
 <p>
 <!-- /wp:list-item --></p>
 <p><!-- wp:list-item --></p>
-<li>Set Permissions: <br>The last section has three arguments - %allowVips%, %allowMods%, and %allowBots%.  <br>Set these to True or False as needed.  <br>Setting one of these to True will allow that role to bypass the link protection rules. <br>Setting one of these to False will prevent that role from posting links outside of the whitelisted domains.<br><br><figure class="wp-image-364"><img loading="lazy"  style="" src="https://phlare.github.io/showmeyourbot/media/posts/16/LinkProtection2-1.png" alt="" sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://phlare.github.io/showmeyourbot/media/posts/16/responsive/LinkProtection2-1-xs.png 300w ,https://phlare.github.io/showmeyourbot/media/posts/16/responsive/LinkProtection2-1-sm.png 480w ,https://phlare.github.io/showmeyourbot/media/posts/16/responsive/LinkProtection2-1-md.png 768w ,https://phlare.github.io/showmeyourbot/media/posts/16/responsive/LinkProtection2-1-lg.png 1024w"></figure></li>
+<li>Set Permissions: <br>The last section has three arguments - %allowVips%, %allowMods%, and %allowBots%.  <br>Set these to True or False as needed.  <br>Setting one of these to True will allow that role to bypass the link protection rules. <br>Setting one of these to False will prevent that role from posting links outside of the whitelisted domains.<br><br><figure class="wp-image-364"><img loading="lazy"  style="" src="https://showmeyourbot.com/media/posts/16/LinkProtection2-1.png" alt="" sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://showmeyourbot.com/media/posts/16/responsive/LinkProtection2-1-xs.png 300w ,https://showmeyourbot.com/media/posts/16/responsive/LinkProtection2-1-sm.png 480w ,https://showmeyourbot.com/media/posts/16/responsive/LinkProtection2-1-md.png 768w ,https://showmeyourbot.com/media/posts/16/responsive/LinkProtection2-1-lg.png 1024w"></figure></li>
 <p>
 <!-- /wp:list-item --></ol>
 <p>
@@ -310,20 +310,20 @@
         <author>
             <name>phlare</name>
         </author>
-        <link href="https://phlare.github.io/showmeyourbot/set-up-a-dadjoke-command-in-streamer-bot/"/>
-        <id>https://phlare.github.io/showmeyourbot/set-up-a-dadjoke-command-in-streamer-bot/</id>
-        <media:content url="https://phlare.github.io/showmeyourbot/media/posts/15/dadjoke-command-3-e1700607677581.png" medium="image" />
+        <link href="https://showmeyourbot.com/set-up-a-dadjoke-command-in-streamer-bot/"/>
+        <id>https://showmeyourbot.com/set-up-a-dadjoke-command-in-streamer-bot/</id>
+        <media:content url="https://showmeyourbot.com/media/posts/15/dadjoke-command-3-e1700607677581.png" medium="image" />
 
         <updated>2023-11-10T05:15:24-07:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://phlare.github.io/showmeyourbot/media/posts/15/dadjoke-command-3-e1700607677581.png" alt="" />
+                        <img src="https://showmeyourbot.com/media/posts/15/dadjoke-command-3-e1700607677581.png" alt="" />
                     This'll be nice and easy. Let's set up a !dadjoke command and action in streamer bot. Your chat will be able to type !dadjoke and&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://phlare.github.io/showmeyourbot/media/posts/15/dadjoke-command-3-e1700607677581.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://showmeyourbot.com/media/posts/15/dadjoke-command-3-e1700607677581.png" class="type:primaryImage" alt="" /></p>
                 <p><!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"var:preset|spacing|30","bottom":"var:preset|spacing|30"}}}} --></p>
 <p style="margin-top:var(--wp--preset--spacing--30);margin-bottom:var(--wp--preset--spacing--30)">This'll be nice and easy. Let's set up a !dadjoke command and action in streamer bot. Your chat will be able to type !dadjoke and your bot will spit out a random groaner.  This should only take a few minutes and we'll learn how to consume a text-based API endpoint with streamer bot.</p>
 <p>
@@ -345,7 +345,7 @@
 <p>
 <!-- /wp:heading --></p>
 <p><!-- wp:paragraph {"style":{"spacing":{"margin":{"right":"0","left":"0","top":"var:preset|spacing|30","bottom":"var:preset|spacing|30"}}}} --></p>
-<figure class="wp-image-295">I'll assume you already have Streamer Bot installed and connected to your channel and stuff.   If you haven't, go see <a href="https://showmeyourbot.com/setting-up-streamer-bot/">this guide on how to set up streamer bot</a>. Then come back here when you're done.<br><br>Now In the Action tab of Streamer Bot, right-click and choose Add. Name the action how you want and you can leave everything else at default unless you wish to assign this action to a particular group or queue.<br><br><img  style="" src="https://phlare.github.io/showmeyourbot/media/posts/15/Screenshot-2023-11-09-214510.png" alt="" sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://phlare.github.io/showmeyourbot/media/posts/15/responsive/Screenshot-2023-11-09-214510-xs.png 300w ,https://phlare.github.io/showmeyourbot/media/posts/15/responsive/Screenshot-2023-11-09-214510-sm.png 480w ,https://phlare.github.io/showmeyourbot/media/posts/15/responsive/Screenshot-2023-11-09-214510-md.png 768w ,https://phlare.github.io/showmeyourbot/media/posts/15/responsive/Screenshot-2023-11-09-214510-lg.png 1024w"></figure><br><br>In the action, you'll want to start by adding a Fetch Url subaction by right clicking and choosing Core &gt; Network &gt; Fetch URL<br><br><figure class="wp-image-297"><img loading="lazy"  style="" src="https://phlare.github.io/showmeyourbot/media/posts/15/Screenshot-2023-11-09-214824.png" alt="" sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://phlare.github.io/showmeyourbot/media/posts/15/responsive/Screenshot-2023-11-09-214824-xs.png 300w ,https://phlare.github.io/showmeyourbot/media/posts/15/responsive/Screenshot-2023-11-09-214824-sm.png 480w ,https://phlare.github.io/showmeyourbot/media/posts/15/responsive/Screenshot-2023-11-09-214824-md.png 768w ,https://phlare.github.io/showmeyourbot/media/posts/15/responsive/Screenshot-2023-11-09-214824-lg.png 1024w"></figure><br><br>In the dialog for the Fetch Url subaction, put https://icanhazdadjoke.com/nightbot as the Url.  Put dadJoke in as the variable name (or whatever you want, just adjust the instructions in the next step).  This will allow us to use %dadJoke% in our output.<br><br><figure class="wp-image-298"><img  style="" src="https://phlare.github.io/showmeyourbot/media/posts/15/Screenshot-2023-11-09-214911.png" alt="" sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://phlare.github.io/showmeyourbot/media/posts/15/responsive/Screenshot-2023-11-09-214911-xs.png 300w ,https://phlare.github.io/showmeyourbot/media/posts/15/responsive/Screenshot-2023-11-09-214911-sm.png 480w ,https://phlare.github.io/showmeyourbot/media/posts/15/responsive/Screenshot-2023-11-09-214911-md.png 768w ,https://phlare.github.io/showmeyourbot/media/posts/15/responsive/Screenshot-2023-11-09-214911-lg.png 1024w"></figure><br><br>Click ok to save, and add a "Send Message To Channel" subaction by right-clicking, and choosing Twitch -&gt; Chat -&gt; Send Message to Channel.<br><br><figure class="wp-image-299"><img loading="lazy"  style="" src="https://phlare.github.io/showmeyourbot/media/posts/15/Screenshot-2023-11-09-215304.png" alt="" sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://phlare.github.io/showmeyourbot/media/posts/15/responsive/Screenshot-2023-11-09-215304-xs.png 300w ,https://phlare.github.io/showmeyourbot/media/posts/15/responsive/Screenshot-2023-11-09-215304-sm.png 480w ,https://phlare.github.io/showmeyourbot/media/posts/15/responsive/Screenshot-2023-11-09-215304-md.png 768w ,https://phlare.github.io/showmeyourbot/media/posts/15/responsive/Screenshot-2023-11-09-215304-lg.png 1024w"></figure><br><br>In the popup for this subaction just put the %dadJoke% variable and press OK.  (If you used a different variable in the previous step, use that here instead.<br><br><figure class="wp-image-300"><img loading="lazy"  style="" src="https://phlare.github.io/showmeyourbot/media/posts/15/Screenshot-2023-11-09-215457.png" alt="" sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://phlare.github.io/showmeyourbot/media/posts/15/responsive/Screenshot-2023-11-09-215457-xs.png 300w ,https://phlare.github.io/showmeyourbot/media/posts/15/responsive/Screenshot-2023-11-09-215457-sm.png 480w ,https://phlare.github.io/showmeyourbot/media/posts/15/responsive/Screenshot-2023-11-09-215457-md.png 768w ,https://phlare.github.io/showmeyourbot/media/posts/15/responsive/Screenshot-2023-11-09-215457-lg.png 1024w"></figure>
+<figure class="wp-image-295">I'll assume you already have Streamer Bot installed and connected to your channel and stuff.   If you haven't, go see <a href="https://showmeyourbot.com/setting-up-streamer-bot/">this guide on how to set up streamer bot</a>. Then come back here when you're done.<br><br>Now In the Action tab of Streamer Bot, right-click and choose Add. Name the action how you want and you can leave everything else at default unless you wish to assign this action to a particular group or queue.<br><br><img  style="" src="https://showmeyourbot.com/media/posts/15/Screenshot-2023-11-09-214510.png" alt="" sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://showmeyourbot.com/media/posts/15/responsive/Screenshot-2023-11-09-214510-xs.png 300w ,https://showmeyourbot.com/media/posts/15/responsive/Screenshot-2023-11-09-214510-sm.png 480w ,https://showmeyourbot.com/media/posts/15/responsive/Screenshot-2023-11-09-214510-md.png 768w ,https://showmeyourbot.com/media/posts/15/responsive/Screenshot-2023-11-09-214510-lg.png 1024w"></figure><br><br>In the action, you'll want to start by adding a Fetch Url subaction by right clicking and choosing Core &gt; Network &gt; Fetch URL<br><br><figure class="wp-image-297"><img loading="lazy"  style="" src="https://showmeyourbot.com/media/posts/15/Screenshot-2023-11-09-214824.png" alt="" sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://showmeyourbot.com/media/posts/15/responsive/Screenshot-2023-11-09-214824-xs.png 300w ,https://showmeyourbot.com/media/posts/15/responsive/Screenshot-2023-11-09-214824-sm.png 480w ,https://showmeyourbot.com/media/posts/15/responsive/Screenshot-2023-11-09-214824-md.png 768w ,https://showmeyourbot.com/media/posts/15/responsive/Screenshot-2023-11-09-214824-lg.png 1024w"></figure><br><br>In the dialog for the Fetch Url subaction, put https://icanhazdadjoke.com/nightbot as the Url.  Put dadJoke in as the variable name (or whatever you want, just adjust the instructions in the next step).  This will allow us to use %dadJoke% in our output.<br><br><figure class="wp-image-298"><img  style="" src="https://showmeyourbot.com/media/posts/15/Screenshot-2023-11-09-214911.png" alt="" sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://showmeyourbot.com/media/posts/15/responsive/Screenshot-2023-11-09-214911-xs.png 300w ,https://showmeyourbot.com/media/posts/15/responsive/Screenshot-2023-11-09-214911-sm.png 480w ,https://showmeyourbot.com/media/posts/15/responsive/Screenshot-2023-11-09-214911-md.png 768w ,https://showmeyourbot.com/media/posts/15/responsive/Screenshot-2023-11-09-214911-lg.png 1024w"></figure><br><br>Click ok to save, and add a "Send Message To Channel" subaction by right-clicking, and choosing Twitch -&gt; Chat -&gt; Send Message to Channel.<br><br><figure class="wp-image-299"><img loading="lazy"  style="" src="https://showmeyourbot.com/media/posts/15/Screenshot-2023-11-09-215304.png" alt="" sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://showmeyourbot.com/media/posts/15/responsive/Screenshot-2023-11-09-215304-xs.png 300w ,https://showmeyourbot.com/media/posts/15/responsive/Screenshot-2023-11-09-215304-sm.png 480w ,https://showmeyourbot.com/media/posts/15/responsive/Screenshot-2023-11-09-215304-md.png 768w ,https://showmeyourbot.com/media/posts/15/responsive/Screenshot-2023-11-09-215304-lg.png 1024w"></figure><br><br>In the popup for this subaction just put the %dadJoke% variable and press OK.  (If you used a different variable in the previous step, use that here instead.<br><br><figure class="wp-image-300"><img loading="lazy"  style="" src="https://showmeyourbot.com/media/posts/15/Screenshot-2023-11-09-215457.png" alt="" sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://showmeyourbot.com/media/posts/15/responsive/Screenshot-2023-11-09-215457-xs.png 300w ,https://showmeyourbot.com/media/posts/15/responsive/Screenshot-2023-11-09-215457-sm.png 480w ,https://showmeyourbot.com/media/posts/15/responsive/Screenshot-2023-11-09-215457-md.png 768w ,https://showmeyourbot.com/media/posts/15/responsive/Screenshot-2023-11-09-215457-lg.png 1024w"></figure>
 <p>
 <!-- /wp:paragraph --></p>
 <p><!-- wp:heading --></p>
@@ -353,7 +353,7 @@
 <p>
 <!-- /wp:heading --></p>
 <p><!-- wp:paragraph {"style":{"spacing":{"margin":{"right":"0","left":"0","top":"var:preset|spacing|30","bottom":"var:preset|spacing|30"}}}} --></p>
-<figure class="wp-image-301">Now our action is all set up and we just need to set up the command.  Keeping our action selected, right-click in the top right panel of the actions tab labeled "Triggers".  Right click to add a new trigger and choose Core &gt; Commands &gt; Command Triggered.<br><br><img  style="" src="https://phlare.github.io/showmeyourbot/media/posts/15/Screenshot-2023-11-09-215833.png" alt="" sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://phlare.github.io/showmeyourbot/media/posts/15/responsive/Screenshot-2023-11-09-215833-xs.png 300w ,https://phlare.github.io/showmeyourbot/media/posts/15/responsive/Screenshot-2023-11-09-215833-sm.png 480w ,https://phlare.github.io/showmeyourbot/media/posts/15/responsive/Screenshot-2023-11-09-215833-md.png 768w ,https://phlare.github.io/showmeyourbot/media/posts/15/responsive/Screenshot-2023-11-09-215833-lg.png 1024w"></figure><br><br>In the dialog that pops up, click the "Create Command" button and we'll get a form to create our !dadjoke command.  On the form use !dadjoke as the name as well as the command, and ensure that the enabled checkbox is checked, then click OK.<br><br><figure class="wp-image-302"><img loading="lazy"  style="" src="https://phlare.github.io/showmeyourbot/media/posts/15/Screenshot-2023-11-09-220507.png" alt="" sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://phlare.github.io/showmeyourbot/media/posts/15/responsive/Screenshot-2023-11-09-220507-xs.png 300w ,https://phlare.github.io/showmeyourbot/media/posts/15/responsive/Screenshot-2023-11-09-220507-sm.png 480w ,https://phlare.github.io/showmeyourbot/media/posts/15/responsive/Screenshot-2023-11-09-220507-md.png 768w ,https://phlare.github.io/showmeyourbot/media/posts/15/responsive/Screenshot-2023-11-09-220507-lg.png 1024w"></figure><br><br>The small popup for the trigger should still be present and this new command should be selected. Now you can just click Ok, and we're done!<br><br><figure class="wp-image-303"><img  style="" src="https://phlare.github.io/showmeyourbot/media/posts/15/Screenshot-2023-11-09-220736.png" alt="" sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://phlare.github.io/showmeyourbot/media/posts/15/responsive/Screenshot-2023-11-09-220736-xs.png 300w ,https://phlare.github.io/showmeyourbot/media/posts/15/responsive/Screenshot-2023-11-09-220736-sm.png 480w ,https://phlare.github.io/showmeyourbot/media/posts/15/responsive/Screenshot-2023-11-09-220736-md.png 768w ,https://phlare.github.io/showmeyourbot/media/posts/15/responsive/Screenshot-2023-11-09-220736-lg.png 1024w"></figure><br><br>Users should now be able to type !dadjoke in chat and the bot will spit out the result of the API.<br><br><figure class="wp-image-304"><img loading="lazy"  style="" src="https://phlare.github.io/showmeyourbot/media/posts/15/Screenshot-2023-11-09-222249.png" alt="" sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://phlare.github.io/showmeyourbot/media/posts/15/responsive/Screenshot-2023-11-09-222249-xs.png 300w ,https://phlare.github.io/showmeyourbot/media/posts/15/responsive/Screenshot-2023-11-09-222249-sm.png 480w ,https://phlare.github.io/showmeyourbot/media/posts/15/responsive/Screenshot-2023-11-09-222249-md.png 768w ,https://phlare.github.io/showmeyourbot/media/posts/15/responsive/Screenshot-2023-11-09-222249-lg.png 1024w"></figure>
+<figure class="wp-image-301">Now our action is all set up and we just need to set up the command.  Keeping our action selected, right-click in the top right panel of the actions tab labeled "Triggers".  Right click to add a new trigger and choose Core &gt; Commands &gt; Command Triggered.<br><br><img  style="" src="https://showmeyourbot.com/media/posts/15/Screenshot-2023-11-09-215833.png" alt="" sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://showmeyourbot.com/media/posts/15/responsive/Screenshot-2023-11-09-215833-xs.png 300w ,https://showmeyourbot.com/media/posts/15/responsive/Screenshot-2023-11-09-215833-sm.png 480w ,https://showmeyourbot.com/media/posts/15/responsive/Screenshot-2023-11-09-215833-md.png 768w ,https://showmeyourbot.com/media/posts/15/responsive/Screenshot-2023-11-09-215833-lg.png 1024w"></figure><br><br>In the dialog that pops up, click the "Create Command" button and we'll get a form to create our !dadjoke command.  On the form use !dadjoke as the name as well as the command, and ensure that the enabled checkbox is checked, then click OK.<br><br><figure class="wp-image-302"><img loading="lazy"  style="" src="https://showmeyourbot.com/media/posts/15/Screenshot-2023-11-09-220507.png" alt="" sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://showmeyourbot.com/media/posts/15/responsive/Screenshot-2023-11-09-220507-xs.png 300w ,https://showmeyourbot.com/media/posts/15/responsive/Screenshot-2023-11-09-220507-sm.png 480w ,https://showmeyourbot.com/media/posts/15/responsive/Screenshot-2023-11-09-220507-md.png 768w ,https://showmeyourbot.com/media/posts/15/responsive/Screenshot-2023-11-09-220507-lg.png 1024w"></figure><br><br>The small popup for the trigger should still be present and this new command should be selected. Now you can just click Ok, and we're done!<br><br><figure class="wp-image-303"><img  style="" src="https://showmeyourbot.com/media/posts/15/Screenshot-2023-11-09-220736.png" alt="" sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://showmeyourbot.com/media/posts/15/responsive/Screenshot-2023-11-09-220736-xs.png 300w ,https://showmeyourbot.com/media/posts/15/responsive/Screenshot-2023-11-09-220736-sm.png 480w ,https://showmeyourbot.com/media/posts/15/responsive/Screenshot-2023-11-09-220736-md.png 768w ,https://showmeyourbot.com/media/posts/15/responsive/Screenshot-2023-11-09-220736-lg.png 1024w"></figure><br><br>Users should now be able to type !dadjoke in chat and the bot will spit out the result of the API.<br><br><figure class="wp-image-304"><img loading="lazy"  style="" src="https://showmeyourbot.com/media/posts/15/Screenshot-2023-11-09-222249.png" alt="" sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://showmeyourbot.com/media/posts/15/responsive/Screenshot-2023-11-09-222249-xs.png 300w ,https://showmeyourbot.com/media/posts/15/responsive/Screenshot-2023-11-09-222249-sm.png 480w ,https://showmeyourbot.com/media/posts/15/responsive/Screenshot-2023-11-09-222249-md.png 768w ,https://showmeyourbot.com/media/posts/15/responsive/Screenshot-2023-11-09-222249-lg.png 1024w"></figure>
 <p>
 <!-- /wp:paragraph --></p>
 <p><!-- wp:heading {"style":{"spacing":{"margin":{"top":"var:preset|spacing|30","bottom":"var:preset|spacing|30"}}}} --></p>
@@ -368,7 +368,7 @@
 <p>
 <!-- /wp:code --></p>
 <p><!-- wp:paragraph --></p>
-<figure class="wp-image-293">Don't want to build it yourself?    Here's an Import code you can use.  Click Import at the top of Streamer Bot and paste this code in the Import String Field.<br><br>You should see 1 action and 1 command ready to import so go ahead and click import.   Make sure you go to the commands tab and enable the command by right-clicking on it and choosing enabled.<br><br><img loading="lazy"  style="" src="https://phlare.github.io/showmeyourbot/media/posts/15/Screenshot-2023-11-09-213643.png" alt="" sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://phlare.github.io/showmeyourbot/media/posts/15/responsive/Screenshot-2023-11-09-213643-xs.png 300w ,https://phlare.github.io/showmeyourbot/media/posts/15/responsive/Screenshot-2023-11-09-213643-sm.png 480w ,https://phlare.github.io/showmeyourbot/media/posts/15/responsive/Screenshot-2023-11-09-213643-md.png 768w ,https://phlare.github.io/showmeyourbot/media/posts/15/responsive/Screenshot-2023-11-09-213643-lg.png 1024w"></figure><br><br>Enjoy, and feel free to send this along to anyone else who might like to set up a !dadjoke command in streamer bot.</p>
+<figure class="wp-image-293">Don't want to build it yourself?    Here's an Import code you can use.  Click Import at the top of Streamer Bot and paste this code in the Import String Field.<br><br>You should see 1 action and 1 command ready to import so go ahead and click import.   Make sure you go to the commands tab and enable the command by right-clicking on it and choosing enabled.<br><br><img loading="lazy"  style="" src="https://showmeyourbot.com/media/posts/15/Screenshot-2023-11-09-213643.png" alt="" sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://showmeyourbot.com/media/posts/15/responsive/Screenshot-2023-11-09-213643-xs.png 300w ,https://showmeyourbot.com/media/posts/15/responsive/Screenshot-2023-11-09-213643-sm.png 480w ,https://showmeyourbot.com/media/posts/15/responsive/Screenshot-2023-11-09-213643-md.png 768w ,https://showmeyourbot.com/media/posts/15/responsive/Screenshot-2023-11-09-213643-lg.png 1024w"></figure><br><br>Enjoy, and feel free to send this along to anyone else who might like to set up a !dadjoke command in streamer bot.</p>
 <p>
 <!-- /wp:paragraph --></p>
 <p><!-- wp:heading --></p>
@@ -402,20 +402,20 @@ https://youtu.be/cXLiJ9LdNK8
         <author>
             <name>phlare</name>
         </author>
-        <link href="https://phlare.github.io/showmeyourbot/how-to-add-a-dad-joke-command-to-streamelements/"/>
-        <id>https://phlare.github.io/showmeyourbot/how-to-add-a-dad-joke-command-to-streamelements/</id>
-        <media:content url="https://phlare.github.io/showmeyourbot/media/posts/13/dadjoke-command-2-e1700607692983.png" medium="image" />
+        <link href="https://showmeyourbot.com/how-to-add-a-dad-joke-command-to-streamelements/"/>
+        <id>https://showmeyourbot.com/how-to-add-a-dad-joke-command-to-streamelements/</id>
+        <media:content url="https://showmeyourbot.com/media/posts/13/dadjoke-command-2-e1700607692983.png" medium="image" />
 
         <updated>2023-11-09T19:09:49-07:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://phlare.github.io/showmeyourbot/media/posts/13/dadjoke-command-2-e1700607692983.png" alt="" />
+                        <img src="https://showmeyourbot.com/media/posts/13/dadjoke-command-2-e1700607692983.png" alt="" />
                     Let's make a !dadjoke command for StreamElements! It's super easy and if you follow these simple steps your bot will be spewing groan-worthy jokes in&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://phlare.github.io/showmeyourbot/media/posts/13/dadjoke-command-2-e1700607692983.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://showmeyourbot.com/media/posts/13/dadjoke-command-2-e1700607692983.png" class="type:primaryImage" alt="" /></p>
                 <p><!-- wp:paragraph --></p>
 <p>Let's make a !dadjoke command for StreamElements! It's super easy and if you follow these simple steps your bot will be spewing groan-worthy jokes in no time.  Let's get into it, here's how to add a dad joke command to StreamElements.</p>
 <p>
@@ -437,7 +437,7 @@ https://youtu.be/cXLiJ9LdNK8
 <p>
 <!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"var:preset|spacing|30","bottom":"var:preset|spacing|30"}}}} --></p>
-<figure class="wp-image-289"><img loading="lazy"  style="" src="https://phlare.github.io/showmeyourbot/media/posts/13/Screenshot-2023-11-09-114308.png" alt="" sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://phlare.github.io/showmeyourbot/media/posts/13/responsive/Screenshot-2023-11-09-114308-xs.png 300w ,https://phlare.github.io/showmeyourbot/media/posts/13/responsive/Screenshot-2023-11-09-114308-sm.png 480w ,https://phlare.github.io/showmeyourbot/media/posts/13/responsive/Screenshot-2023-11-09-114308-md.png 768w ,https://phlare.github.io/showmeyourbot/media/posts/13/responsive/Screenshot-2023-11-09-114308-lg.png 1024w"></figure>
+<figure class="wp-image-289"><img loading="lazy"  style="" src="https://showmeyourbot.com/media/posts/13/Screenshot-2023-11-09-114308.png" alt="" sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://showmeyourbot.com/media/posts/13/responsive/Screenshot-2023-11-09-114308-xs.png 300w ,https://showmeyourbot.com/media/posts/13/responsive/Screenshot-2023-11-09-114308-sm.png 480w ,https://showmeyourbot.com/media/posts/13/responsive/Screenshot-2023-11-09-114308-md.png 768w ,https://showmeyourbot.com/media/posts/13/responsive/Screenshot-2023-11-09-114308-lg.png 1024w"></figure>
 <p>
 <!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
@@ -448,7 +448,7 @@ https://youtu.be/cXLiJ9LdNK8
 <p>
 <!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"var:preset|spacing|30","bottom":"var:preset|spacing|30"}}}} --></p>
-<figure class="wp-image-290"><img loading="lazy"  style="" src="https://phlare.github.io/showmeyourbot/media/posts/13/Screenshot-2023-11-09-115601.png" alt="" sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://phlare.github.io/showmeyourbot/media/posts/13/responsive/Screenshot-2023-11-09-115601-xs.png 300w ,https://phlare.github.io/showmeyourbot/media/posts/13/responsive/Screenshot-2023-11-09-115601-sm.png 480w ,https://phlare.github.io/showmeyourbot/media/posts/13/responsive/Screenshot-2023-11-09-115601-md.png 768w ,https://phlare.github.io/showmeyourbot/media/posts/13/responsive/Screenshot-2023-11-09-115601-lg.png 1024w"></figure>
+<figure class="wp-image-290"><img loading="lazy"  style="" src="https://showmeyourbot.com/media/posts/13/Screenshot-2023-11-09-115601.png" alt="" sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://showmeyourbot.com/media/posts/13/responsive/Screenshot-2023-11-09-115601-xs.png 300w ,https://showmeyourbot.com/media/posts/13/responsive/Screenshot-2023-11-09-115601-sm.png 480w ,https://showmeyourbot.com/media/posts/13/responsive/Screenshot-2023-11-09-115601-md.png 768w ,https://showmeyourbot.com/media/posts/13/responsive/Screenshot-2023-11-09-115601-lg.png 1024w"></figure>
 <p>
 <!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"var:preset|spacing|30","bottom":"var:preset|spacing|30"}}}} --></p>
@@ -499,20 +499,20 @@ https://youtu.be/85mZgIK1WD4
         <author>
             <name>phlare</name>
         </author>
-        <link href="https://phlare.github.io/showmeyourbot/create-a-dad-joke-command-with-nightbot/"/>
-        <id>https://phlare.github.io/showmeyourbot/create-a-dad-joke-command-with-nightbot/</id>
-        <media:content url="https://phlare.github.io/showmeyourbot/media/posts/12/dadjoke-command-1-e1700607708146.png" medium="image" />
+        <link href="https://showmeyourbot.com/create-a-dad-joke-command-with-nightbot/"/>
+        <id>https://showmeyourbot.com/create-a-dad-joke-command-with-nightbot/</id>
+        <media:content url="https://showmeyourbot.com/media/posts/12/dadjoke-command-1-e1700607708146.png" medium="image" />
 
         <updated>2023-11-09T05:58:43-07:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://phlare.github.io/showmeyourbot/media/posts/12/dadjoke-command-1-e1700607708146.png" alt="" />
+                        <img src="https://showmeyourbot.com/media/posts/12/dadjoke-command-1-e1700607708146.png" alt="" />
                     Want a quick and easy command to let your users generate a silly dad joke? Easy. Here's how to set up a command in Nightbot&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://phlare.github.io/showmeyourbot/media/posts/12/dadjoke-command-1-e1700607708146.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://showmeyourbot.com/media/posts/12/dadjoke-command-1-e1700607708146.png" class="type:primaryImage" alt="" /></p>
                 <p><!-- wp:embed {"url":"https://youtu.be/H0T5R-_eTXM","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} --></p>
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
 <div class="wp-block-embed__wrapper">
@@ -550,7 +550,7 @@ https://youtu.be/H0T5R-_eTXM
 <p>
 <!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"var:preset|spacing|30","bottom":"var:preset|spacing|30"}}}} --></p>
-<figure class="wp-image-283"><img loading="lazy"  style="" src="https://phlare.github.io/showmeyourbot/media/posts/12/Screenshot-2023-11-08-224752.png" alt="" sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://phlare.github.io/showmeyourbot/media/posts/12/responsive/Screenshot-2023-11-08-224752-xs.png 300w ,https://phlare.github.io/showmeyourbot/media/posts/12/responsive/Screenshot-2023-11-08-224752-sm.png 480w ,https://phlare.github.io/showmeyourbot/media/posts/12/responsive/Screenshot-2023-11-08-224752-md.png 768w ,https://phlare.github.io/showmeyourbot/media/posts/12/responsive/Screenshot-2023-11-08-224752-lg.png 1024w"></figure>
+<figure class="wp-image-283"><img loading="lazy"  style="" src="https://showmeyourbot.com/media/posts/12/Screenshot-2023-11-08-224752.png" alt="" sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://showmeyourbot.com/media/posts/12/responsive/Screenshot-2023-11-08-224752-xs.png 300w ,https://showmeyourbot.com/media/posts/12/responsive/Screenshot-2023-11-08-224752-sm.png 480w ,https://showmeyourbot.com/media/posts/12/responsive/Screenshot-2023-11-08-224752-md.png 768w ,https://showmeyourbot.com/media/posts/12/responsive/Screenshot-2023-11-08-224752-lg.png 1024w"></figure>
 <p>
 <!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"var:preset|spacing|30","bottom":"var:preset|spacing|30"}}}} --></p>
@@ -565,7 +565,7 @@ https://youtu.be/H0T5R-_eTXM
 <p>
 <!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"var:preset|spacing|30","bottom":"var:preset|spacing|30"}}}} --></p>
-<figure class="wp-image-284"><img loading="lazy"  style="" src="https://phlare.github.io/showmeyourbot/media/posts/12/Screenshot-2023-11-08-225333.png" alt="" sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://phlare.github.io/showmeyourbot/media/posts/12/responsive/Screenshot-2023-11-08-225333-xs.png 300w ,https://phlare.github.io/showmeyourbot/media/posts/12/responsive/Screenshot-2023-11-08-225333-sm.png 480w ,https://phlare.github.io/showmeyourbot/media/posts/12/responsive/Screenshot-2023-11-08-225333-md.png 768w ,https://phlare.github.io/showmeyourbot/media/posts/12/responsive/Screenshot-2023-11-08-225333-lg.png 1024w"></figure>
+<figure class="wp-image-284"><img loading="lazy"  style="" src="https://showmeyourbot.com/media/posts/12/Screenshot-2023-11-08-225333.png" alt="" sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://showmeyourbot.com/media/posts/12/responsive/Screenshot-2023-11-08-225333-xs.png 300w ,https://showmeyourbot.com/media/posts/12/responsive/Screenshot-2023-11-08-225333-sm.png 480w ,https://showmeyourbot.com/media/posts/12/responsive/Screenshot-2023-11-08-225333-md.png 768w ,https://showmeyourbot.com/media/posts/12/responsive/Screenshot-2023-11-08-225333-lg.png 1024w"></figure>
 <p>
 <!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"var:preset|spacing|30","bottom":"var:preset|spacing|30"}}}} --></p>
@@ -592,20 +592,20 @@ https://youtu.be/H0T5R-_eTXM
         <author>
             <name>phlare</name>
         </author>
-        <link href="https://phlare.github.io/showmeyourbot/make-a-dad-joke-command-for-streamlabs-cloudbot/"/>
-        <id>https://phlare.github.io/showmeyourbot/make-a-dad-joke-command-for-streamlabs-cloudbot/</id>
-        <media:content url="https://phlare.github.io/showmeyourbot/media/posts/11/dadjoke-command-e1700607722108.png" medium="image" />
+        <link href="https://showmeyourbot.com/make-a-dad-joke-command-for-streamlabs-cloudbot/"/>
+        <id>https://showmeyourbot.com/make-a-dad-joke-command-for-streamlabs-cloudbot/</id>
+        <media:content url="https://showmeyourbot.com/media/posts/11/dadjoke-command-e1700607722108.png" medium="image" />
 
         <updated>2023-11-02T17:21:42-06:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://phlare.github.io/showmeyourbot/media/posts/11/dadjoke-command-e1700607722108.png" alt="" />
+                        <img src="https://showmeyourbot.com/media/posts/11/dadjoke-command-e1700607722108.png" alt="" />
                     Want a quick and easy command to let your users generate a silly dad joke? Easy. Here's how to set up a command in cloudbot&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://phlare.github.io/showmeyourbot/media/posts/11/dadjoke-command-e1700607722108.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://showmeyourbot.com/media/posts/11/dadjoke-command-e1700607722108.png" class="type:primaryImage" alt="" /></p>
                 <p><!-- wp:paragraph --></p>
 <p>Want a quick and easy command to let your users generate a silly dad joke?  Easy.  Here's how to set up a command in cloudbot that will allow your users to type !dadjoke and your bot will make a dad joke.</p>
 <p>
@@ -630,7 +630,7 @@ https://youtu.be/H0T5R-_eTXM
 <p>
 <!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"var:preset|spacing|30","bottom":"var:preset|spacing|30"}}}} --></p>
-<figure class="wp-image-270"><img loading="lazy"  style="" src="https://phlare.github.io/showmeyourbot/media/posts/11/Screenshot-2023-11-02-111512.png" alt="" sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://phlare.github.io/showmeyourbot/media/posts/11/responsive/Screenshot-2023-11-02-111512-xs.png 300w ,https://phlare.github.io/showmeyourbot/media/posts/11/responsive/Screenshot-2023-11-02-111512-sm.png 480w ,https://phlare.github.io/showmeyourbot/media/posts/11/responsive/Screenshot-2023-11-02-111512-md.png 768w ,https://phlare.github.io/showmeyourbot/media/posts/11/responsive/Screenshot-2023-11-02-111512-lg.png 1024w"></figure>
+<figure class="wp-image-270"><img loading="lazy"  style="" src="https://showmeyourbot.com/media/posts/11/Screenshot-2023-11-02-111512.png" alt="" sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://showmeyourbot.com/media/posts/11/responsive/Screenshot-2023-11-02-111512-xs.png 300w ,https://showmeyourbot.com/media/posts/11/responsive/Screenshot-2023-11-02-111512-sm.png 480w ,https://showmeyourbot.com/media/posts/11/responsive/Screenshot-2023-11-02-111512-md.png 768w ,https://showmeyourbot.com/media/posts/11/responsive/Screenshot-2023-11-02-111512-lg.png 1024w"></figure>
 <p>
 <!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
@@ -638,7 +638,7 @@ https://youtu.be/H0T5R-_eTXM
 <p>
 <!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"var:preset|spacing|30","bottom":"var:preset|spacing|30"}}}} --></p>
-<figure class="wp-image-271"><img loading="lazy"  style="" src="https://phlare.github.io/showmeyourbot/media/posts/11/dadjoke.png" alt="" sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://phlare.github.io/showmeyourbot/media/posts/11/responsive/dadjoke-xs.png 300w ,https://phlare.github.io/showmeyourbot/media/posts/11/responsive/dadjoke-sm.png 480w ,https://phlare.github.io/showmeyourbot/media/posts/11/responsive/dadjoke-md.png 768w ,https://phlare.github.io/showmeyourbot/media/posts/11/responsive/dadjoke-lg.png 1024w"></figure>
+<figure class="wp-image-271"><img loading="lazy"  style="" src="https://showmeyourbot.com/media/posts/11/dadjoke.png" alt="" sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://showmeyourbot.com/media/posts/11/responsive/dadjoke-xs.png 300w ,https://showmeyourbot.com/media/posts/11/responsive/dadjoke-sm.png 480w ,https://showmeyourbot.com/media/posts/11/responsive/dadjoke-md.png 768w ,https://showmeyourbot.com/media/posts/11/responsive/dadjoke-lg.png 1024w"></figure>
 <p>
 <!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
@@ -665,20 +665,20 @@ https://youtu.be/H0T5R-_eTXM
         <author>
             <name>phlare</name>
         </author>
-        <link href="https://phlare.github.io/showmeyourbot/reset-connection-between-streamer-bot-and-streamlabs-desktop/"/>
-        <id>https://phlare.github.io/showmeyourbot/reset-connection-between-streamer-bot-and-streamlabs-desktop/</id>
-        <media:content url="https://phlare.github.io/showmeyourbot/media/posts/10/tutorials-1-e1700607734575.png" medium="image" />
+        <link href="https://showmeyourbot.com/reset-connection-between-streamer-bot-and-streamlabs-desktop/"/>
+        <id>https://showmeyourbot.com/reset-connection-between-streamer-bot-and-streamlabs-desktop/</id>
+        <media:content url="https://showmeyourbot.com/media/posts/10/tutorials-1-e1700607734575.png" medium="image" />
 
         <updated>2023-10-27T16:54:47-06:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://phlare.github.io/showmeyourbot/media/posts/10/tutorials-1-e1700607734575.png" alt="" />
+                        <img src="https://showmeyourbot.com/media/posts/10/tutorials-1-e1700607734575.png" alt="" />
                     Sometimes Streamer Bot and StreamLabs Desktop don't play very well together, and users have reported the connection failing. According to one member of my community,&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://phlare.github.io/showmeyourbot/media/posts/10/tutorials-1-e1700607734575.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://showmeyourbot.com/media/posts/10/tutorials-1-e1700607734575.png" class="type:primaryImage" alt="" /></p>
                 <p><!-- wp:gutenverse/section {"elementId":"guten-roT3J4"} --></p>
 <div class="section-wrapper" data-id="roT3J4">
 <section class="wp-block-gutenverse-section guten-element guten-section guten-roT3J4 layout-boxed align-stretch">
@@ -719,7 +719,7 @@ https://youtu.be/H0T5R-_eTXM
 <p>
 <!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<figure class="wp-image-259"><img loading="lazy"  style="" src="https://phlare.github.io/showmeyourbot/media/posts/10/Screenshot-2023-10-27-104624.png" alt="" sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://phlare.github.io/showmeyourbot/media/posts/10/responsive/Screenshot-2023-10-27-104624-xs.png 300w ,https://phlare.github.io/showmeyourbot/media/posts/10/responsive/Screenshot-2023-10-27-104624-sm.png 480w ,https://phlare.github.io/showmeyourbot/media/posts/10/responsive/Screenshot-2023-10-27-104624-md.png 768w ,https://phlare.github.io/showmeyourbot/media/posts/10/responsive/Screenshot-2023-10-27-104624-lg.png 1024w"></figure>
+<figure class="wp-image-259"><img loading="lazy"  style="" src="https://showmeyourbot.com/media/posts/10/Screenshot-2023-10-27-104624.png" alt="" sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://showmeyourbot.com/media/posts/10/responsive/Screenshot-2023-10-27-104624-xs.png 300w ,https://showmeyourbot.com/media/posts/10/responsive/Screenshot-2023-10-27-104624-sm.png 480w ,https://showmeyourbot.com/media/posts/10/responsive/Screenshot-2023-10-27-104624-md.png 768w ,https://showmeyourbot.com/media/posts/10/responsive/Screenshot-2023-10-27-104624-lg.png 1024w"></figure>
 <p>
 <!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
@@ -746,7 +746,7 @@ https://youtu.be/H0T5R-_eTXM
 <p>
 <!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<figure class="wp-image-265"><img loading="lazy"  style="" src="https://phlare.github.io/showmeyourbot/media/posts/10/connect.png" alt="" sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://phlare.github.io/showmeyourbot/media/posts/10/responsive/connect-xs.png 300w ,https://phlare.github.io/showmeyourbot/media/posts/10/responsive/connect-sm.png 480w ,https://phlare.github.io/showmeyourbot/media/posts/10/responsive/connect-md.png 768w ,https://phlare.github.io/showmeyourbot/media/posts/10/responsive/connect-lg.png 1024w"></figure>
+<figure class="wp-image-265"><img loading="lazy"  style="" src="https://showmeyourbot.com/media/posts/10/connect.png" alt="" sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://showmeyourbot.com/media/posts/10/responsive/connect-xs.png 300w ,https://showmeyourbot.com/media/posts/10/responsive/connect-sm.png 480w ,https://showmeyourbot.com/media/posts/10/responsive/connect-md.png 768w ,https://showmeyourbot.com/media/posts/10/responsive/connect-lg.png 1024w"></figure>
 <p>
 <!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
@@ -787,20 +787,20 @@ https://youtu.be/H0T5R-_eTXM
         <author>
             <name>phlare</name>
         </author>
-        <link href="https://phlare.github.io/showmeyourbot/shoutout-command-for-streamelements-with-game/"/>
-        <id>https://phlare.github.io/showmeyourbot/shoutout-command-for-streamelements-with-game/</id>
-        <media:content url="https://phlare.github.io/showmeyourbot/media/posts/9/StreamElementsShoutout-e1700607749719.png" medium="image" />
+        <link href="https://showmeyourbot.com/shoutout-command-for-streamelements-with-game/"/>
+        <id>https://showmeyourbot.com/shoutout-command-for-streamelements-with-game/</id>
+        <media:content url="https://showmeyourbot.com/media/posts/9/StreamElementsShoutout-e1700607749719.png" medium="image" />
 
         <updated>2023-10-13T03:08:45-06:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://phlare.github.io/showmeyourbot/media/posts/9/StreamElementsShoutout-e1700607749719.png" alt="" />
+                        <img src="https://showmeyourbot.com/media/posts/9/StreamElementsShoutout-e1700607749719.png" alt="" />
                     Let’s talk about setting up a shoutout command for Twitch using StreamElements that displays the game and a link to the stream person shouted out.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://phlare.github.io/showmeyourbot/media/posts/9/StreamElementsShoutout-e1700607749719.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://showmeyourbot.com/media/posts/9/StreamElementsShoutout-e1700607749719.png" class="type:primaryImage" alt="" /></p>
                 <p><!-- wp:gutenverse/section {"elementId":"guten-987I6b"} --></p>
 <div class="section-wrapper" data-id="987I6b">
 <section class="wp-block-gutenverse-section guten-element guten-section guten-987I6b layout-boxed align-stretch">
@@ -828,7 +828,7 @@ https://youtu.be/H0T5R-_eTXM
 <p>
 <!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<figure class="wp-image-235"><img loading="lazy"  style="" src="https://phlare.github.io/showmeyourbot/media/posts/9/chatbot-commands.png" alt="" sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://phlare.github.io/showmeyourbot/media/posts/9/responsive/chatbot-commands-xs.png 300w ,https://phlare.github.io/showmeyourbot/media/posts/9/responsive/chatbot-commands-sm.png 480w ,https://phlare.github.io/showmeyourbot/media/posts/9/responsive/chatbot-commands-md.png 768w ,https://phlare.github.io/showmeyourbot/media/posts/9/responsive/chatbot-commands-lg.png 1024w"></figure>
+<figure class="wp-image-235"><img loading="lazy"  style="" src="https://showmeyourbot.com/media/posts/9/chatbot-commands.png" alt="" sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://showmeyourbot.com/media/posts/9/responsive/chatbot-commands-xs.png 300w ,https://showmeyourbot.com/media/posts/9/responsive/chatbot-commands-sm.png 480w ,https://showmeyourbot.com/media/posts/9/responsive/chatbot-commands-md.png 768w ,https://showmeyourbot.com/media/posts/9/responsive/chatbot-commands-lg.png 1024w"></figure>
 <p>
 <!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
@@ -840,7 +840,7 @@ https://youtu.be/H0T5R-_eTXM
 <p>
 <!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<figure class="wp-image-237"><img loading="lazy"  style="" src="https://phlare.github.io/showmeyourbot/media/posts/9/configcommand.png" alt="" sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://phlare.github.io/showmeyourbot/media/posts/9/responsive/configcommand-xs.png 300w ,https://phlare.github.io/showmeyourbot/media/posts/9/responsive/configcommand-sm.png 480w ,https://phlare.github.io/showmeyourbot/media/posts/9/responsive/configcommand-md.png 768w ,https://phlare.github.io/showmeyourbot/media/posts/9/responsive/configcommand-lg.png 1024w"></figure>
+<figure class="wp-image-237"><img loading="lazy"  style="" src="https://showmeyourbot.com/media/posts/9/configcommand.png" alt="" sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://showmeyourbot.com/media/posts/9/responsive/configcommand-xs.png 300w ,https://showmeyourbot.com/media/posts/9/responsive/configcommand-sm.png 480w ,https://showmeyourbot.com/media/posts/9/responsive/configcommand-md.png 768w ,https://showmeyourbot.com/media/posts/9/responsive/configcommand-lg.png 1024w"></figure>
 <p>
 <!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
@@ -924,20 +924,20 @@ https://youtu.be/KLfAXyYhrJY
         <author>
             <name>phlare</name>
         </author>
-        <link href="https://phlare.github.io/showmeyourbot/setting-up-streamelements-chatbot/"/>
-        <id>https://phlare.github.io/showmeyourbot/setting-up-streamelements-chatbot/</id>
-        <media:content url="https://phlare.github.io/showmeyourbot/media/posts/8/StreamElementsSetup-e1700607794115.png" medium="image" />
+        <link href="https://showmeyourbot.com/setting-up-streamelements-chatbot/"/>
+        <id>https://showmeyourbot.com/setting-up-streamelements-chatbot/</id>
+        <media:content url="https://showmeyourbot.com/media/posts/8/StreamElementsSetup-e1700607794115.png" medium="image" />
 
         <updated>2023-10-11T23:28:04-06:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://phlare.github.io/showmeyourbot/media/posts/8/StreamElementsSetup-e1700607794115.png" alt="" />
+                        <img src="https://showmeyourbot.com/media/posts/8/StreamElementsSetup-e1700607794115.png" alt="" />
                     Do you need some automated help moderating your chat? Maybe you want a little bit of help keeping the chat moving during lulls in conversation?&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://phlare.github.io/showmeyourbot/media/posts/8/StreamElementsSetup-e1700607794115.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://showmeyourbot.com/media/posts/8/StreamElementsSetup-e1700607794115.png" class="type:primaryImage" alt="" /></p>
                 <p><!-- wp:gutenverse/section {"elementId":"guten-LzcC3C"} --></p>
 <div class="section-wrapper" data-id="LzcC3C">
 <section class="wp-block-gutenverse-section guten-element guten-section guten-LzcC3C layout-boxed align-stretch">
@@ -961,7 +961,7 @@ https://youtu.be/KLfAXyYhrJY
 <p>
 <!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<figure class="wp-image-220"><img loading="lazy"  style="" src="https://phlare.github.io/showmeyourbot/media/posts/8/login-1.png" alt="" sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://phlare.github.io/showmeyourbot/media/posts/8/responsive/login-1-xs.png 300w ,https://phlare.github.io/showmeyourbot/media/posts/8/responsive/login-1-sm.png 480w ,https://phlare.github.io/showmeyourbot/media/posts/8/responsive/login-1-md.png 768w ,https://phlare.github.io/showmeyourbot/media/posts/8/responsive/login-1-lg.png 1024w"></figure>
+<figure class="wp-image-220"><img loading="lazy"  style="" src="https://showmeyourbot.com/media/posts/8/login-1.png" alt="" sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://showmeyourbot.com/media/posts/8/responsive/login-1-xs.png 300w ,https://showmeyourbot.com/media/posts/8/responsive/login-1-sm.png 480w ,https://showmeyourbot.com/media/posts/8/responsive/login-1-md.png 768w ,https://showmeyourbot.com/media/posts/8/responsive/login-1-lg.png 1024w"></figure>
 <p>
 <!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
@@ -985,7 +985,7 @@ https://youtu.be/KLfAXyYhrJY
 <p>
 <!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<figure class="wp-image-221"><img loading="lazy"  style="" src="https://phlare.github.io/showmeyourbot/media/posts/8/joinchannel.png" alt="" sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://phlare.github.io/showmeyourbot/media/posts/8/responsive/joinchannel-xs.png 300w ,https://phlare.github.io/showmeyourbot/media/posts/8/responsive/joinchannel-sm.png 480w ,https://phlare.github.io/showmeyourbot/media/posts/8/responsive/joinchannel-md.png 768w ,https://phlare.github.io/showmeyourbot/media/posts/8/responsive/joinchannel-lg.png 1024w"></figure>
+<figure class="wp-image-221"><img loading="lazy"  style="" src="https://showmeyourbot.com/media/posts/8/joinchannel.png" alt="" sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://showmeyourbot.com/media/posts/8/responsive/joinchannel-xs.png 300w ,https://showmeyourbot.com/media/posts/8/responsive/joinchannel-sm.png 480w ,https://showmeyourbot.com/media/posts/8/responsive/joinchannel-md.png 768w ,https://showmeyourbot.com/media/posts/8/responsive/joinchannel-lg.png 1024w"></figure>
 <p>
 <!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
@@ -1013,7 +1013,7 @@ https://youtu.be/KLfAXyYhrJY
 <p>
 <!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<figure class="wp-image-222"><img loading="lazy"  style="" src="https://phlare.github.io/showmeyourbot/media/posts/8/chatcommands.png" alt="" sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://phlare.github.io/showmeyourbot/media/posts/8/responsive/chatcommands-xs.png 300w ,https://phlare.github.io/showmeyourbot/media/posts/8/responsive/chatcommands-sm.png 480w ,https://phlare.github.io/showmeyourbot/media/posts/8/responsive/chatcommands-md.png 768w ,https://phlare.github.io/showmeyourbot/media/posts/8/responsive/chatcommands-lg.png 1024w"></figure>
+<figure class="wp-image-222"><img loading="lazy"  style="" src="https://showmeyourbot.com/media/posts/8/chatcommands.png" alt="" sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://showmeyourbot.com/media/posts/8/responsive/chatcommands-xs.png 300w ,https://showmeyourbot.com/media/posts/8/responsive/chatcommands-sm.png 480w ,https://showmeyourbot.com/media/posts/8/responsive/chatcommands-md.png 768w ,https://showmeyourbot.com/media/posts/8/responsive/chatcommands-lg.png 1024w"></figure>
 <p>
 <!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
@@ -1036,7 +1036,7 @@ https://youtu.be/KLfAXyYhrJY
 <p>
 <!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<figure class="wp-image-223"><img loading="lazy"  style="" src="https://phlare.github.io/showmeyourbot/media/posts/8/commandscommand.png" alt="" sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://phlare.github.io/showmeyourbot/media/posts/8/responsive/commandscommand-xs.png 300w ,https://phlare.github.io/showmeyourbot/media/posts/8/responsive/commandscommand-sm.png 480w ,https://phlare.github.io/showmeyourbot/media/posts/8/responsive/commandscommand-md.png 768w ,https://phlare.github.io/showmeyourbot/media/posts/8/responsive/commandscommand-lg.png 1024w"></figure>
+<figure class="wp-image-223"><img loading="lazy"  style="" src="https://showmeyourbot.com/media/posts/8/commandscommand.png" alt="" sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://showmeyourbot.com/media/posts/8/responsive/commandscommand-xs.png 300w ,https://showmeyourbot.com/media/posts/8/responsive/commandscommand-sm.png 480w ,https://showmeyourbot.com/media/posts/8/responsive/commandscommand-md.png 768w ,https://showmeyourbot.com/media/posts/8/responsive/commandscommand-lg.png 1024w"></figure>
 <p>
 <!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
@@ -1076,7 +1076,7 @@ https://youtu.be/KLfAXyYhrJY
 <p>
 <!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<figure class="wp-image-224"><img loading="lazy"  style="" src="https://phlare.github.io/showmeyourbot/media/posts/8/customcommands.png" alt="" sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://phlare.github.io/showmeyourbot/media/posts/8/responsive/customcommands-xs.png 300w ,https://phlare.github.io/showmeyourbot/media/posts/8/responsive/customcommands-sm.png 480w ,https://phlare.github.io/showmeyourbot/media/posts/8/responsive/customcommands-md.png 768w ,https://phlare.github.io/showmeyourbot/media/posts/8/responsive/customcommands-lg.png 1024w"></figure>
+<figure class="wp-image-224"><img loading="lazy"  style="" src="https://showmeyourbot.com/media/posts/8/customcommands.png" alt="" sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://showmeyourbot.com/media/posts/8/responsive/customcommands-xs.png 300w ,https://showmeyourbot.com/media/posts/8/responsive/customcommands-sm.png 480w ,https://showmeyourbot.com/media/posts/8/responsive/customcommands-md.png 768w ,https://showmeyourbot.com/media/posts/8/responsive/customcommands-lg.png 1024w"></figure>
 <p>
 <!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
@@ -1108,7 +1108,7 @@ https://youtu.be/KLfAXyYhrJY
 <p>
 <!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<figure class="wp-image-225"><img loading="lazy"  style="" src="https://phlare.github.io/showmeyourbot/media/posts/8/newcommand.png" alt="" sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://phlare.github.io/showmeyourbot/media/posts/8/responsive/newcommand-xs.png 300w ,https://phlare.github.io/showmeyourbot/media/posts/8/responsive/newcommand-sm.png 480w ,https://phlare.github.io/showmeyourbot/media/posts/8/responsive/newcommand-md.png 768w ,https://phlare.github.io/showmeyourbot/media/posts/8/responsive/newcommand-lg.png 1024w"></figure>
+<figure class="wp-image-225"><img loading="lazy"  style="" src="https://showmeyourbot.com/media/posts/8/newcommand.png" alt="" sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://showmeyourbot.com/media/posts/8/responsive/newcommand-xs.png 300w ,https://showmeyourbot.com/media/posts/8/responsive/newcommand-sm.png 480w ,https://showmeyourbot.com/media/posts/8/responsive/newcommand-md.png 768w ,https://showmeyourbot.com/media/posts/8/responsive/newcommand-lg.png 1024w"></figure>
 <p>
 <!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
@@ -1147,7 +1147,7 @@ https://youtu.be/KLfAXyYhrJY
 <p>
 <!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<figure class="wp-image-226"><img loading="lazy"  style="" src="https://phlare.github.io/showmeyourbot/media/posts/8/timers-1.png" alt="" sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://phlare.github.io/showmeyourbot/media/posts/8/responsive/timers-1-xs.png 300w ,https://phlare.github.io/showmeyourbot/media/posts/8/responsive/timers-1-sm.png 480w ,https://phlare.github.io/showmeyourbot/media/posts/8/responsive/timers-1-md.png 768w ,https://phlare.github.io/showmeyourbot/media/posts/8/responsive/timers-1-lg.png 1024w"></figure>
+<figure class="wp-image-226"><img loading="lazy"  style="" src="https://showmeyourbot.com/media/posts/8/timers-1.png" alt="" sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://showmeyourbot.com/media/posts/8/responsive/timers-1-xs.png 300w ,https://showmeyourbot.com/media/posts/8/responsive/timers-1-sm.png 480w ,https://showmeyourbot.com/media/posts/8/responsive/timers-1-md.png 768w ,https://showmeyourbot.com/media/posts/8/responsive/timers-1-lg.png 1024w"></figure>
 <p>
 <!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
@@ -1167,7 +1167,7 @@ https://youtu.be/KLfAXyYhrJY
 <p>
 <!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<figure class="wp-image-227"><img loading="lazy"  style="" src="https://phlare.github.io/showmeyourbot/media/posts/8/followremind.png" alt="" sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://phlare.github.io/showmeyourbot/media/posts/8/responsive/followremind-xs.png 300w ,https://phlare.github.io/showmeyourbot/media/posts/8/responsive/followremind-sm.png 480w ,https://phlare.github.io/showmeyourbot/media/posts/8/responsive/followremind-md.png 768w ,https://phlare.github.io/showmeyourbot/media/posts/8/responsive/followremind-lg.png 1024w"></figure>
+<figure class="wp-image-227"><img loading="lazy"  style="" src="https://showmeyourbot.com/media/posts/8/followremind.png" alt="" sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://showmeyourbot.com/media/posts/8/responsive/followremind-xs.png 300w ,https://showmeyourbot.com/media/posts/8/responsive/followremind-sm.png 480w ,https://showmeyourbot.com/media/posts/8/responsive/followremind-md.png 768w ,https://showmeyourbot.com/media/posts/8/responsive/followremind-lg.png 1024w"></figure>
 <p>
 <!-- /wp:paragraph --></p>
 <p><!-- wp:heading --></p>
@@ -1230,7 +1230,7 @@ https://youtu.be/KLfAXyYhrJY
 <p>
 <!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<figure class="wp-image-228"><img loading="lazy"  style="" src="https://phlare.github.io/showmeyourbot/media/posts/8/modules.png" alt="" sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://phlare.github.io/showmeyourbot/media/posts/8/responsive/modules-xs.png 300w ,https://phlare.github.io/showmeyourbot/media/posts/8/responsive/modules-sm.png 480w ,https://phlare.github.io/showmeyourbot/media/posts/8/responsive/modules-md.png 768w ,https://phlare.github.io/showmeyourbot/media/posts/8/responsive/modules-lg.png 1024w"></figure>
+<figure class="wp-image-228"><img loading="lazy"  style="" src="https://showmeyourbot.com/media/posts/8/modules.png" alt="" sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://showmeyourbot.com/media/posts/8/responsive/modules-xs.png 300w ,https://showmeyourbot.com/media/posts/8/responsive/modules-sm.png 480w ,https://showmeyourbot.com/media/posts/8/responsive/modules-md.png 768w ,https://showmeyourbot.com/media/posts/8/responsive/modules-lg.png 1024w"></figure>
 <p>
 <!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
@@ -1250,7 +1250,7 @@ https://youtu.be/KLfAXyYhrJY
 <p>
 <!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<figure class="wp-image-229"><img loading="lazy"  style="" src="https://phlare.github.io/showmeyourbot/media/posts/8/chatalerts.png" alt="" sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://phlare.github.io/showmeyourbot/media/posts/8/responsive/chatalerts-xs.png 300w ,https://phlare.github.io/showmeyourbot/media/posts/8/responsive/chatalerts-sm.png 480w ,https://phlare.github.io/showmeyourbot/media/posts/8/responsive/chatalerts-md.png 768w ,https://phlare.github.io/showmeyourbot/media/posts/8/responsive/chatalerts-lg.png 1024w"></figure>
+<figure class="wp-image-229"><img loading="lazy"  style="" src="https://showmeyourbot.com/media/posts/8/chatalerts.png" alt="" sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://showmeyourbot.com/media/posts/8/responsive/chatalerts-xs.png 300w ,https://showmeyourbot.com/media/posts/8/responsive/chatalerts-sm.png 480w ,https://showmeyourbot.com/media/posts/8/responsive/chatalerts-md.png 768w ,https://showmeyourbot.com/media/posts/8/responsive/chatalerts-lg.png 1024w"></figure>
 <p>
 <!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
@@ -1285,7 +1285,7 @@ https://youtu.be/KLfAXyYhrJY
 <p>
 <!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<figure class="wp-image-230"><img loading="lazy"  style="" src="https://phlare.github.io/showmeyourbot/media/posts/8/spam-filters.png" alt="" sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://phlare.github.io/showmeyourbot/media/posts/8/responsive/spam-filters-xs.png 300w ,https://phlare.github.io/showmeyourbot/media/posts/8/responsive/spam-filters-sm.png 480w ,https://phlare.github.io/showmeyourbot/media/posts/8/responsive/spam-filters-md.png 768w ,https://phlare.github.io/showmeyourbot/media/posts/8/responsive/spam-filters-lg.png 1024w"></figure>
+<figure class="wp-image-230"><img loading="lazy"  style="" src="https://showmeyourbot.com/media/posts/8/spam-filters.png" alt="" sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://showmeyourbot.com/media/posts/8/responsive/spam-filters-xs.png 300w ,https://showmeyourbot.com/media/posts/8/responsive/spam-filters-sm.png 480w ,https://showmeyourbot.com/media/posts/8/responsive/spam-filters-md.png 768w ,https://showmeyourbot.com/media/posts/8/responsive/spam-filters-lg.png 1024w"></figure>
 <p>
 <!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
@@ -1305,7 +1305,7 @@ https://youtu.be/KLfAXyYhrJY
 <p>
 <!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<figure class="wp-image-231"><img loading="lazy"  style="" src="https://phlare.github.io/showmeyourbot/media/posts/8/twitch_link_setting-1.png" alt="" sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://phlare.github.io/showmeyourbot/media/posts/8/responsive/twitch_link_setting-1-xs.png 300w ,https://phlare.github.io/showmeyourbot/media/posts/8/responsive/twitch_link_setting-1-sm.png 480w ,https://phlare.github.io/showmeyourbot/media/posts/8/responsive/twitch_link_setting-1-md.png 768w ,https://phlare.github.io/showmeyourbot/media/posts/8/responsive/twitch_link_setting-1-lg.png 1024w"></figure>
+<figure class="wp-image-231"><img loading="lazy"  style="" src="https://showmeyourbot.com/media/posts/8/twitch_link_setting-1.png" alt="" sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://showmeyourbot.com/media/posts/8/responsive/twitch_link_setting-1-xs.png 300w ,https://showmeyourbot.com/media/posts/8/responsive/twitch_link_setting-1-sm.png 480w ,https://showmeyourbot.com/media/posts/8/responsive/twitch_link_setting-1-md.png 768w ,https://showmeyourbot.com/media/posts/8/responsive/twitch_link_setting-1-lg.png 1024w"></figure>
 <p>
 <!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
