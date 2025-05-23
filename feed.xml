@@ -3,7 +3,7 @@
     <title>Show Me Your Bot</title>
     <link href="https://showmeyourbot.com/feed.xml" rel="self" />
     <link href="https://showmeyourbot.com" />
-    <updated>2025-05-23T15:30:19-06:00</updated>
+    <updated>2025-05-23T15:44:50-06:00</updated>
     <author>
         <name>phlare</name>
     </author>
@@ -53,13 +53,15 @@
 <div class="wp-block-column">
 <p><!-- wp:embed {"url":"https://youtu.be/g3VBEWRrc2I","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} --></p>
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
-<div class="wp-block-embed__wrapper">https://youtu.be/g3VBEWRrc2I</div>
+<div class="wp-block-embed__wrapper">
+<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/g3VBEWRrc2I" allowfullscreen="allowfullscreen"></iframe></figure>
+</div>
 </figure>
 <p><!-- /wp:embed --></p>
 </div>
 <p><!-- /wp:column --></p>
 <p><!-- wp:column --></p>
-<div class="wp-block-column"> </div>
+<div class="wp-block-column">https://youtu.be/g3VBEWRrc2I</div>
 <p><!-- /wp:column --></p>
 </div>
 <p><!-- /wp:columns --></p>
@@ -176,6 +178,9 @@
 <div class="wp-block-column">
 <p><!-- wp:embed {"url":"https://www.youtube.com/watch?v=dkucgopY_VY","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} --></p>
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
+<div class="wp-block-embed__wrapper">
+<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/dkucgopY_VY" allowfullscreen="allowfullscreen"></iframe></figure>
+</div>
 <div class="wp-block-embed__wrapper">https://www.youtube.com/watch?v=dkucgopY_VY</div>
 </figure>
 <p><!-- /wp:embed --></p>
@@ -251,42 +256,10 @@
 <li style="list-style-type: none;">
 <ol><!-- wp:list-item -->
 <li>Copy the Import Code below (triple-click to select easily)</li>
-</ol>
-</li>
-</ol>
-<p><!-- /wp:list-item --></p>
-<p><!-- wp:list-item --></p>
-<ol>
-<li style="list-style-type: none;">
-<ol>
 <li>Click Import at the top of Streamer bot in order to open the import dialog</li>
-</ol>
-</li>
-</ol>
-<p><!-- /wp:list-item --></p>
-<p><!-- wp:list-item --></p>
-<ol>
-<li style="list-style-type: none;">
-<ol>
 <li>Paste the code you copied earlier into the "Import String" box</li>
-</ol>
-</li>
-</ol>
-<p><!-- /wp:list-item --></p>
-<p><!-- wp:list-item --></p>
-<ol>
-<li style="list-style-type: none;">
-<ol>
 <li>Make sure Link Protection shows up as an action</li>
-</ol>
-</li>
-</ol>
-<p><!-- /wp:list-item --></p>
-<p><!-- wp:list-item --></p>
-<ol>
-<li style="list-style-type: none;">
-<ol>
-<li>Click Import at the bottom<br><br><figure class="wp-image-351"><img loading="lazy"  src="https://showmeyourbot.com/media/posts/16/Screenshot-2023-12-26-221302.png" alt="" sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://showmeyourbot.com/media/posts/16/responsive/Screenshot-2023-12-26-221302-xs.png 300w ,https://showmeyourbot.com/media/posts/16/responsive/Screenshot-2023-12-26-221302-sm.png 480w ,https://showmeyourbot.com/media/posts/16/responsive/Screenshot-2023-12-26-221302-md.png 768w ,https://showmeyourbot.com/media/posts/16/responsive/Screenshot-2023-12-26-221302-lg.png 1024w"></figure></li>
+<li>Click Import at the bottom<figure class="wp-image-351"><img loading="lazy"  style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);" src="https://showmeyourbot.com/media/posts/16/Screenshot-2023-12-26-221302.png" alt="" sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://showmeyourbot.com/media/posts/16/responsive/Screenshot-2023-12-26-221302-xs.png 300w ,https://showmeyourbot.com/media/posts/16/responsive/Screenshot-2023-12-26-221302-sm.png 480w ,https://showmeyourbot.com/media/posts/16/responsive/Screenshot-2023-12-26-221302-md.png 768w ,https://showmeyourbot.com/media/posts/16/responsive/Screenshot-2023-12-26-221302-lg.png 1024w"></figure></li>
 </ol>
 </li>
 </ol>
@@ -302,51 +275,11 @@
 <li style="list-style-type: none;">
 <ol><!-- wp:list-item -->
 <li>Open the Link Protection action that you just imported</li>
-</ol>
-</li>
-</ol>
-<p><!-- /wp:list-item --></p>
-<p><!-- wp:list-item --></p>
-<ol>
-<li style="list-style-type: none;">
-<ol>
-<li>change <code>phlare_bot</code> to your own bot name in the "if" statement (this isn't strictly necessary if you have allowBots set to True and your bot is part of your bot Group (see #5 and #6) but it's a good failsafe.</li>
-</ol>
-</li>
-</ol>
-<p><!-- /wp:list-item --></p>
-<p><!-- wp:list-item --></p>
-<ol>
-<li style="list-style-type: none;">
-<ol>
+<li>change <code style="font-weight: var(--font-weight-normal);">phlare_bot</code><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"> to your own bot name in the "if" statement (this isn't strictly necessary if you have allowBots set to True and your bot is part of your bot Group (see #5 and #6) but it's a good failsafe.</span></li>
 <li>Check out the %whitelist% argument and add or remove whitelisted domains as desired. leave a single space between domains. Streamer bot allows links from these domains, regardless of permissions. subdomains should be included with any base domain whitelisted, so no need to add both twitch.tv and clips.twitch.tv</li>
-</ol>
-</li>
-</ol>
-<p><!-- /wp:list-item --></p>
-<p><!-- wp:list-item --></p>
-<ol>
-<li style="list-style-type: none;">
-<ol>
-<li>Set the warning you wish to send to chat when the bot deletes a link. You may use variables here if you wish.<br>defaults message: <code>hey %user%, no links please!</code></li>
-</ol>
-</li>
-</ol>
-<p><!-- /wp:list-item --></p>
-<p><!-- wp:list-item --></p>
-<ol>
-<li style="list-style-type: none;">
-<ol>
-<li>Set the name of your Bot Group in the %botGroup% variable. See my video on group permissions here to learn how to set up a bot group: <a href="https://youtu.be/MdlmfH92vOg">https://youtu.be/MdlmfH92vOg</a></li>
-</ol>
-</li>
-</ol>
-<p><!-- /wp:list-item --></p>
-<p><!-- wp:list-item --></p>
-<ol>
-<li style="list-style-type: none;">
-<ol>
-<li>Set Permissions: <br>The last section has three arguments - %allowVips%, %allowMods%, and %allowBots%. <br>Set these to True or False as needed. <br>Setting one of these to True will allow that role to bypass the link protection rules. <br>Setting one of these to False will prevent that role from posting links outside of the whitelisted domains.<br><br><figure class="wp-image-364"><img loading="lazy"  src="https://showmeyourbot.com/media/posts/16/LinkProtection2-1.png" alt="" sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://showmeyourbot.com/media/posts/16/responsive/LinkProtection2-1-xs.png 300w ,https://showmeyourbot.com/media/posts/16/responsive/LinkProtection2-1-sm.png 480w ,https://showmeyourbot.com/media/posts/16/responsive/LinkProtection2-1-md.png 768w ,https://showmeyourbot.com/media/posts/16/responsive/LinkProtection2-1-lg.png 1024w"></figure></li>
+<li>Set the warning you wish to send to chat when the bot deletes a link. You may use variables here if you wish.<br><br>defaults message: <code style="font-weight: var(--font-weight-normal);">hey %user%, no links please!</code></li>
+<li>Set the name of your Bot Group in the %botGroup% variable. See my video on group permissions here to learn how to set up a bot group: <a href="https://youtu.be/MdlmfH92vOg" style="font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">https://youtu.be/MdlmfH92vOg</a></li>
+<li>Set Permissions:<br>The last section has three arguments - %allowVips%, %allowMods%, and %allowBots%.<br>Set these to True or False as needed.<br>Setting one of these to True will allow that role to bypass the link protection rules.<br>Setting one of these to False will prevent that role from posting links outside of the whitelisted domains.<figure class="wp-image-364"><img loading="lazy"  style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);" src="https://showmeyourbot.com/media/posts/16/LinkProtection2-1.png" alt="" sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://showmeyourbot.com/media/posts/16/responsive/LinkProtection2-1-xs.png 300w ,https://showmeyourbot.com/media/posts/16/responsive/LinkProtection2-1-sm.png 480w ,https://showmeyourbot.com/media/posts/16/responsive/LinkProtection2-1-md.png 768w ,https://showmeyourbot.com/media/posts/16/responsive/LinkProtection2-1-lg.png 1024w"></figure></li>
 </ol>
 </li>
 </ol>
@@ -421,6 +354,7 @@
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:heading --></p>
 <h2 class="wp-block-heading">Video Tutoral</h2>
+<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/cXLiJ9LdNK8" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <p><!-- /wp:heading --></p>
 <p><!-- wp:columns --></p>
 <div class="wp-block-columns">
