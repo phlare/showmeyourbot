@@ -3,7 +3,7 @@
     <title>Show Me Your Bot</title>
     <link href="https://showmeyourbot.com/feed.xml" rel="self" />
     <link href="https://showmeyourbot.com" />
-    <updated>2025-05-23T15:27:07-06:00</updated>
+    <updated>2025-05-23T15:28:44-06:00</updated>
     <author>
         <name>phlare</name>
     </author>
@@ -762,7 +762,7 @@
 <p><!-- wp:paragraph --></p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<p>For more streamlabs tutorials check out the streamlabs category in the navigation, or <a href="https://showmeyourbot.com/topics/streamlabs/">go right to the streamlabs category here</a>.</p>
+<p>For more streamlabs tutorials check out the streamlabs category in the navigation, or <a href="https://showmeyourbot.com/tags/streamlabs/">go right to the streamlabs category here</a>.</p>
 <p><!-- /wp:paragraph --></p>
 </div>
 </div>
@@ -1037,7 +1037,7 @@
 <p>If you want to dig deeper into the variables that are available, there’s a link at the top of the page here labeled “command variables.”</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<p>You can really do a LOT with these commands. Check out the streamelements category to see more <a href="https://showmeyourbot.com/topics/streamelements/">custom commands that you can build with StreamElements</a>.</p>
+<p>You can really do a LOT with these commands. Check out the streamelements category to see more <a href="https://showmeyourbot.com/tags/streamelements/">custom commands that you can build with StreamElements</a>.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>To explore the menu a bit further let’s make a simple custom command from scratch to share a link to something like a link tree page.</p>
