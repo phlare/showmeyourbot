@@ -3,7 +3,7 @@
     <title>Show Me Your Bot</title>
     <link href="https://showmeyourbot.com/feed.xml" rel="self" />
     <link href="https://showmeyourbot.com" />
-    <updated>2025-05-23T15:21:08-06:00</updated>
+    <updated>2025-05-23T15:26:14-06:00</updated>
     <author>
         <name>phlare</name>
     </author>
@@ -244,7 +244,7 @@
 <h2 class="wp-block-heading" style="margin-top: var(--wp--preset--spacing--40); margin-bottom: var(--wp--preset--spacing--40);">Installation Instructions</h2>
 <p><!-- /wp:heading --></p>
 <p><!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"0","bottom":"var:preset|spacing|30"}}}} --></p>
-<p style="margin-top: 0; margin-bottom: var(--wp--preset--spacing--30);">These instructions assume you already have streamer bot installed and connected to your Twitch account. Go read this guide to <a href="https://showmeyourbot.com/https://showmeyourbot.com/setting-up-streamerbot/">learn how to set up streamer bot intially</a>.</p>
+<p style="margin-top: 0; margin-bottom: var(--wp--preset--spacing--30);">These instructions assume you already have streamer bot installed and connected to your Twitch account. Go read this guide to <a href="https://showmeyourbot.com/setting-up-streamerbot/">learn how to set up streamer bot intially</a>.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:list {"ordered":true} --></p>
 <ol>
