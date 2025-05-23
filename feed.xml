@@ -3,7 +3,7 @@
     <title>Show Me Your Bot</title>
     <link href="https://showmeyourbot.com/feed.xml" rel="self" />
     <link href="https://showmeyourbot.com" />
-    <updated>2025-05-23T15:29:34-06:00</updated>
+    <updated>2025-05-23T15:30:19-06:00</updated>
     <author>
         <name>phlare</name>
     </author>
@@ -1052,7 +1052,7 @@
 <p>Set the User Level as desired, and then in the response field, just put something like, “Check out my social media accounts at {your link}” and then click “activate command” at the bottom.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<p>If you go into chat now and type !socials you should see this message and link appear in chat. For more custom commands check out <a href="https://showmeyourbot.com/topics/streamelements/">the StreamElements Chatbot category page</a> for StreamElements tutorials.</p>
+<p>If you go into chat now and type !socials you should see this message and link appear in chat. For more custom commands check out <a href="https://showmeyourbot.com/tags/streamelements/">the StreamElements Chatbot category page</a> for StreamElements tutorials.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:heading --></p>
 <h2 class="wp-block-heading">User Management</h2>
